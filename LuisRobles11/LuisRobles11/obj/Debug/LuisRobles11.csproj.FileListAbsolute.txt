@@ -6,3 +6,12 @@ c:\users\luis robles\documents\visual studio 2015\Projects\LuisRobles11\LuisRobl
 c:\users\luis robles\documents\visual studio 2015\Projects\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.csproj.GenerateResource.Cache
 c:\users\luis robles\documents\visual studio 2015\Projects\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.exe
 c:\users\luis robles\documents\visual studio 2015\Projects\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.pdb
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\bin\Debug\LuisRobles11.exe.config
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.exe
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.pdb
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\bin\Debug\LuisRobles11.exe
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\bin\Debug\LuisRobles11.pdb
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.Form1.resources
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.Properties.Resources.resources
+C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.csproj.GenerateResource.Cache
