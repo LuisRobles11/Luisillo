@@ -15,3 +15,6 @@ C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Deb
 C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.Form1.resources
 C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.Properties.Resources.resources
 C:\Users\Miguel Trujillo\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.csproj.GenerateResource.Cache
+C:\Users\King James\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\bin\Debug\LuisRobles11.exe.config
+C:\Users\King James\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.exe
+C:\Users\King James\Source\Repos\Luisillo\LuisRobles11\LuisRobles11\obj\Debug\LuisRobles11.pdb
